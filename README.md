@@ -13,4 +13,5 @@ The 5 metrics used in this project to understand productivity of reddit contribu
 - Upvote_Ratio :- It is the ratio of upvotes to downvotes. In a highly scientific subreddit having higher upvote ratio could show higher objectivity.
 - Crossposts :- According to reddit
   > Crossposting is an easy way to take a post from one community and share it with another community. When you crosspost content, the crosspost includes an embed of the original post, along with the username, community, and karma score on the original post.
-- ID represents a unique id given by reddit to a particular post. It could be used to extract any other attribute associated with the post using praw. Created is the datetime of the post. Both these are descriptive features unique to a post.
+
+ ID represents a unique id given by reddit to a particular post. It could be used to extract any other attribute associated with the post using praw. Created is the datetime of the post. Both these are descriptive features unique to a post.
