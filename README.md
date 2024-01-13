@@ -1,6 +1,6 @@
 # **REDDIT DATA ANALYSIS**
 
-For this project I have extracted data of askscience and everythingscience subreddits from 11-10-2023 to 30-10-2023 using official python reddit api wrapper(PRAW). Due to recent policy changes at reddit, access to pushshift api which was widely used for data extraction of reddit for research purposes have been limited to the mods of subreddits.
+For this project I have extracted data of askscience and everythingscience subreddits from 11-10-2023 to 30-12-2023 using official python reddit api wrapper(PRAW). Due to recent policy changes at reddit, access to pushshift api which was widely used for data extraction of reddit for research purposes have been limited to the mods of subreddits.
 The reason why I chose these subreddits are
 - Both subreddits are on same topic i.e. science but with different targets. While askscience contains interesting questions, everythingscience mostly contains informational content often taken from highly acclaimed news and research articles.
 - Both subreddits gives contributors option to add Flairs which are really useful to distinguish different topics asked in questions.
